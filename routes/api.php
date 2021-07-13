@@ -1,11 +1,10 @@
 <?php
 
 
+use App\Http\Controllers\PassportAuthController;
+use App\Http\Controllers\PostController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use Laravel\Passport\Passport;
-use App\Http\Controllers\PostController;
-use App\Http\Controllers\PassportAuthController;
 
 
 /*
